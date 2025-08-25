@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Nalanda Santos Souza
 
-**`Desenvolvedora Web`**
+**`Desenvolvedora Full Stack`**
 
 Olá 👋, é um prazer te ver por aqui! Sou formada em Análise e Desenvolvimento de Sistemas, entusiasmada com o mundo da tecnologia e sempre em busca de novos conhecimentos nessa área tão ampla. Estou focada no desenvolvimento de habilidades para atuar como full stack. Sou proativa, adaptável e dedicada, com uma curiosidade constante para a resolução de problemas. Gosto de estudar, mas sempre aplico o que aprendo para reforçar meu conhecimento. 
 
